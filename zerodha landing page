@@ -1,0 +1,37 @@
+//only baasic HTML 
+<div>
+  <img width="150" src="logo.svg">
+  
+  <span>
+    Signup
+  </span>
+  <span>
+    About
+  </span>
+  <span>
+    Product
+  </span>
+  <span>
+    Pricing
+  </span>
+  <span>
+    Support
+  </span>
+</div>
+<br>
+<br>
+<br>
+<br>
+<center><h1>Technology</h1>
+<h3> Sleek, modern, and intuitive trading platforms</h3>
+<p>Check out our <a  style="text-decoration:none" href="www.zreoda.com"> investment offering→</a></p>
+</center>
+<hr style=" color: #0a0a0a; size: 50% ;">
+<center><img style="border-radius: 10px; padding: auto;"  width="800" src="landing.png"></img></center>
+<center><h1>Invest in Everything</h1>
+  <h3>Online platform to invest on stocks, mutual funds ,derivative and more</h3>
+</center>
+<br>
+<center>
+  <button> Signup Now</button>
+</center>
