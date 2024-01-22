@@ -67,3 +67,5 @@ let answer=0;
    answer = answer +i;
    }
    console.log(answer);
+// New repository will be added soon this just to 
+// continue the streek I am focusing on Appti
